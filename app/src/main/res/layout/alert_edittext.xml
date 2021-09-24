@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center"
+
+
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="80dp"
+
+        android:background="@drawable/alert_back"
+
+
+
+
+
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:focusable="auto"
+            android:src="@drawable/warning"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set a Name for your pdf"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold"></TextView>
+
+        <EditText
+            android:id="@+id/copy"
+            android:layout_width="190dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/white_str"
+            android:elevation="8dp"
+
+
+            android:hint="Pdf Name"
+            android:paddingLeft="15dp"
+            android:paddingRight="20dp"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="14sp"></EditText>
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="12dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="clip_horizontal|center_vertical"
+
+            android:text="Add effects to make yor pdf realistic"
+
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:id="@+id/cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="15dp"
+
+                android:clickable="true"
+                android:focusable="true"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_marginLeft="15dp"
+                android:text="cancel"
+                android:textColor="@color/white"
+                android:textStyle="bold"></TextView>
+            <TextView
+                android:id="@+id/contine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="15dp"
+
+                android:clickable="true"
+                android:focusable="true"
+                android:background="?android:attr/selectableItemBackground"
+
+                android:layout_marginLeft="15dp"
+                android:text="Continue"
+                android:textColor="@color/white"
+                android:textStyle="bold"></TextView>
+
+
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/copy_cont"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/button_style"
+            android:elevation="8dp"
+            android:fontFamily="@font/andada"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Copy and Continue"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="13sp"></TextView>
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

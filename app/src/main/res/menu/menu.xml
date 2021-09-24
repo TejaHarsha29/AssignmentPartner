@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:title="My Assignments"
+            android:id="@+id/assignment"
+            android:icon="@drawable/assign"
+            ></item>
+        <item
+            android:title="Rate"
+            android:id="@+id/rate"
+            android:icon="@drawable/star"
+            ></item>
+        <item
+            android:title="Credits"
+            android:id="@+id/credits"
+            android:icon="@drawable/credit"
+            ></item>
+
+        <item
+            android:title="Report Bugs"
+            android:icon="@drawable/bug"
+            android:id="@+id/bugs"
+            ></item>
+
+        <item
+            android:title="Future Updates"
+            android:icon="@drawable/updates"
+            android:id="@+id/update"
+            ></item>
+
+
+        <item
+            android:title="Add your HandWriting"
+            android:icon="@drawable/hand"
+            android:id="@+id/handWriting"
+            ></item>
+        <item
+            android:title="About us"
+            android:icon="@drawable/about"
+            android:id="@+id/about"
+            ></item>
+        <item
+            android:title="User Manual"
+            android:id="@+id/manual"
+            android:icon="@drawable/user"
+            ></item>
+
+        <item
+            android:title="Share"
+            android:icon="@drawable/share"
+            android:id="@+id/share"
+            ></item>
+        <item
+            android:title="Contact"
+
+
+            >
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:title="Gmail"
+                        android:id="@+id/gmail"
+                        android:icon="@drawable/mail"
+                        ></item>
+                <item
+                    android:title="Instagram"
+                    android:id="@+id/instagram"
+                    android:icon="@drawable/instagram"
+
+                    ></item>
+                <item
+                    android:title="Youtube"
+                    android:id="@+id/youtube"
+                    android:icon="@drawable/youtube"
+
+                    ></item><item
+                    android:title="Telegram"
+                     android:id="@+id/telegram"
+                    android:icon="@drawable/telegram"
+
+                    ></item>
+
+                </group>
+
+            </menu>
+        </item>
+
+
+
+    </group>
+
+</menu>

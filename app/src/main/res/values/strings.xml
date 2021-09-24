@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment Partner</string>
+    <string name="Lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare lacinia feugiat. Fusce eget aliquam elit. Fusce eu auctor velit. Nullam efficitur hendrerit nisi nec sagittis. Integer porttitor mattis nibh vitae placerat. Integer at leo hendrerit, pellentesque purus eget, luctus magna. Vestibulum posuere metus nec quam viverra, ac iaculis eros ultricies. Praesent nulla ex, commodo id euismod id, pellentesque id velit. Aliquam a dapibus diam. Sed rutrum tempor nibh, eget ornare ligula aliquet a. Nulla ullamcorper iaculis tortor, ut convallis turpis congue sed.Phasellus lacinia eu sem a eleifend. Nunc a urna varius, laoreet ante blandit, vulputate tortor. Maecenas tincidunt in tortor non lobortis. Curabitur placerat pretium purus non commodo. Fusce sagittis volutpat diam, quis auctor risus aliquam vitae. Pellentesque convallis rutrum finibus. Aliquam ultricies urna porttitor nisi dictum auctor in id est. Quisque vel ipsum ac enim aliquet porta. Aenean sit amet lectus dignissim, sagittis est tempor, pellentesque lectus. Suspendisse potenti. Nullam tristique nisi sed purus congue ultricies. Proin ut magna quis ipsum rutrum commodo. Donec lectus erat, faucibus in urna id, hendrerit aliquet nunc. Sed vitae lacus at erat varius vestibulum.</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="about_me">I am a third year under graduate Student at JNTUH,Hyderabad.I am a Computer Enthusiast with good hand shake in programming,Specializing in developing high Quality Android apps.I love coding and aspire to build things to make world easier</string>
+    <string name="motto">My main motto is to solve problems,World is full of problems and are waiting to be solved.I wanted to be the part of solution the world needs</string>
+    <string name="abt_you">If you are reading this,Know you are awesome,because very few people open "ABOUT US" page in an app.To support us and for updates follow us on instagram</string>
+    <string name="idea"> The main idea of this app is to help students complete their Boring assignments faster and efficiently without any delay</string>
+    <string name="loc">Phone_Storage>Android>data>com.AppsbyHarsha.Assignment_Partner>files</string>
+    <string name="manual_1">2.change the font,color,size and background of the assignment according to your needs and tap the create assignment button..you also have a preview at he bottom riht corner of the page which changes dynamically when ever you change your settings</string>
+    <string name="manual_2">3.you can manually type the text or you can scan and extract the text from the image.you can either capture the image using camera or you can select image from gallery</string>
+    <string name="manual_3">4.After capturing the image or selecting the image from gallery,crop the image and press the crop button and the extracted text is shown on the page</string>
+    <string name="manual_4">5.you can continue adding text to the panel by pressing the scan button again and every time you scan a image a page seperator is added which seperates page with other</string>
+    <string name="manual_5">6.make sure all the text is correct and all the page seperators are at correct position,you can also add or remove page seperators in your text.After making sure every thing is correct,tap on the convert button</string>
+    <string name="manual_6">7.check all the pages in the pdf are correct,you can always go back and correct your text any time you want</string>
+    <string name="manual_7">8.now tap on get pdf button and give a name for your pdf,and press copy and continue so that your text data is copied to clipboard and is not lost</string>
+    <string name="manual_8">9.your pdf is stored in PhoneStorage>Android>data>com.AppsbyHarsha.AssignmentPartner>files for more information click the button below</string>
+    <string name="channel_name">harsha</string>
+    <string name="channel_description">teja</string>
+
+</resources>
