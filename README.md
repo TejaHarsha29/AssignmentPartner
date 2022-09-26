@@ -56,7 +56,7 @@ Engineering Graduate passionate about Computers and Electronics. I'm a Computer 
 
 ## Download from here:
 
-<a href='https://bit.ly/jhubapp' target='_blank'>
+<a href='https://play.google.com/store/apps/details?id=com.AppsbyHarsha.assignmentpartner' target='_blank'>
     <img height='150' style='border:0px;height:150px;' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' border='0' alt='Download from Google Play' />   </a>
  
 <h4>You can also access all the releases from <a href="https://github.com/TejaHarsha29/AssignmentPartner/releases">Releases tab</a></h3>
